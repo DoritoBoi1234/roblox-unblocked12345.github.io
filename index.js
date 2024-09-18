@@ -1,3 +1,4 @@
+console.log("Hello, World!");
 const express = require('express');
 const { createProxyMiddleware } = require('http-proxy-middleware');
 
